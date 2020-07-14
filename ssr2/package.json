@@ -1,0 +1,15 @@
+{
+  "name": "ssr2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/eddychelene/Server-Side-Rendering"
+  },
+  "author": "Edmilson Chelene",
+  "license": "ISC"
+}
