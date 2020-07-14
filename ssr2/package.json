@@ -13,6 +13,7 @@
   "author": "Edmilson Chelene",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "express": "^4.17.1",
     "next": "^9.4.4",
     "react": "^16.13.1",
